@@ -1,0 +1,8 @@
+#ft ul li{
+	 padding:5px;
+	 color:white;
+	 font-size:30px; 
+	 float:right;
+     text-align:inline; 
+	 list-style-type: none;
+}
